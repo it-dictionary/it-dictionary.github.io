@@ -1,4 +1,4 @@
-const url = "http://maksym.space:5000";
+const url = "https://maksym.space:5000";
 const alphabet = document.getElementById("alphabet");
 const words_list = document.getElementById("words-list")
 const determination = document.getElementById("determination")
